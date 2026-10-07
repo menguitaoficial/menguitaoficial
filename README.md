@@ -5,100 +5,84 @@
 </p>
 
 <p align="center">
-  📍 Macaíba, Rio Grande do Norte, Brazil
-</p>
-
-<p align="center">
   <a href="https://github.com/SEU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge" alt="Profile views">
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
-<p align="center">
-  💻 Building projects and learning new technologies<br>
-  📚 Always looking for ways to improve my programming skills<br>
-  🔧 I enjoy turning ideas into real projects<br>
-  🎯 My goal is to continuously grow as a developer<br>
-  🧠 Exploring different areas of software development
-</p>
+📍 **Macaíba, Rio Grande do Norte, Brazil**
+
+- 💻 Building projects and learning new technologies
+- 📚 Always looking for ways to improve my programming skills
+- 🔧 I enjoy turning ideas into real projects
+- 🎯 My goal is to continuously grow as a developer
+- 🧠 Exploring different areas of software development
 
 ---
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+## 🛠️ Technologies & Tools
 
-<div align="center">
+<div align="left">
 
-<h3>💻 Languages</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img width="12" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img width="12" />
 
-<h3>📱 Frameworks & Development</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+<img width="12" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img width="12" />
 
-<h3>🗄️ Database</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
+<img width="12" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
+<img width="12" />
 
-<h3>🔧 Tools</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
+<img width="12" />
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 
 </div>
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
+## 📚 Currently Learning
 
-<p align="center">
-  🌐 Web Development<br>
-  📱 Mobile Development<br>
-  ☕ Java<br>
-  ⚡ JavaScript<br>
-  🦋 Flutter<br>
-  💾 Databases<br>
-  🔌 Arduino & Electronics
-</p>
-
----
-
-<h2 align="center">🎯 Goals</h2>
-
-<p align="center">
-  🚀 Build increasingly complete and useful projects<br>
-  📈 Improve my development skills<br>
-  💡 Learn new technologies<br>
-  🤝 Contribute to open-source projects and communities<br>
-  🧩 Solve real-world problems through programming
-</p>
+```text
+🌐 Web Development
+📱 Mobile Development
+⚡ JavaScript
+🦋 Flutter
+💾 Databases
+🔌 Arduino & Electronics
+```
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 🎯 Goals
+
+- 🚀 Build increasingly complete and useful projects
+- 📈 Improve my development skills
+- 💡 Learn new technologies
+- 🤝 Contribute to open-source projects and communities
+- 🧩 Solve real-world problems through programming
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,7 +94,7 @@
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -120,7 +104,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -130,21 +114,19 @@
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+## 📫 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</p>
+</div>
 
 ---
 
