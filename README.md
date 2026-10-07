@@ -40,8 +40,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/menguitaoficial/count.svg?"  />
-</div>
 
-###
