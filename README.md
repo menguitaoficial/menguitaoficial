@@ -1,23 +1,13 @@
 <h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
 
+
 <p align="center">
-  💻 Developer passionate about technology, programming, and building projects.
+  <i>💻 "Turning ideas into code, one project at a time."</i>
 </p>
 
 <p align="center">
   📍 Macaíba, Rio Grande do Norte, Brazil
 </p>
-
----
-
-## 🚀 About Me
-
-- 💻 Building projects and learning new technologies
-- 📚 Always looking for ways to improve my programming skills
-- 🔧 I enjoy turning ideas into real projects
-- 🎯 My goal is to continuously grow as a developer
-- 🧠 Exploring different areas of software development
-- 🎮 I enjoy playing games in my free time
 
 ---
 
@@ -64,17 +54,6 @@
 🌐 Web Development
 📱 Mobile Development
 ```
-
----
-
-## 🎯 Goals
-
-- 🚀 Build increasingly complete and useful projects
-- 📈 Improve my development skills
-- 💡 Learn new technologies
-- 🤝 Contribute to open-source projects and communities
-- 🧩 Solve real-world problems through programming
-
 ---
 
 ## 🎮 Hobbies
@@ -123,8 +102,3 @@
 
 </div>
 
----
-
-<p align="center">
-  <i>💻 "Turning ideas into code, one project at a time."</i>
-</p>
