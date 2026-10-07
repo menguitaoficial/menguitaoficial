@@ -1,72 +1,87 @@
-<h1 align="center">👨‍💻 Caio Diogenes</h1>
+<h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
 
 <p align="center">
-  🎓 <b>Software Development Student</b><br>
-  📍 <b>Macaíba, Rio Grande do Norte, Brazil</b>
+  💻 Developer passionate about technology, programming, and building projects.
+</p>
+
+<p align="center">
+  📍 Macaíba, Rio Grande do Norte, Brazil
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📌 About Me</h2>
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🌐 <b>Languages:</b> Portuguese (Native) • English (Basic - Improving)<br>
-  🚀 <b>Profile:</b> Focused on continuous learning, programming, and problem solving.<br>
-  🎯 <b>Goal:</b> Growing as a developer and building practical software projects.
+  💻 Building projects and learning new technologies<br>
+  📚 Always looking for ways to improve my programming skills<br>
+  🔧 I enjoy turning ideas into real projects<br>
+  🎯 My goal is to continuously grow as a developer<br>
+  🧠 Exploring different areas of software development
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+<h3>💻 Languages</h3>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
 </p>
 
-<p align="center">
+<h3>📱 Frameworks & Development</h3>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Arduino" />
 </p>
 
-<p align="center">
+<h3>🗄️ Database</h3>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
 </p>
+
+<h3>🔧 Tools</h3>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+</p>
+
+</div>
 
 ---
 
 <h2 align="center">📚 Currently Learning</h2>
 
 <p align="center">
-  ☕ Java & Object-Oriented Programming<br>
   🌐 Web Development<br>
   📱 Mobile Development<br>
-  💾 Database Development<br>
-  🧩 Software Engineering & Problem Solving
+  ☕ Java<br>
+  ⚡ JavaScript<br>
+  🦋 Flutter<br>
+  💾 Databases<br>
+  🔌 Arduino & Electronics
 </p>
 
 ---
@@ -74,11 +89,11 @@
 <h2 align="center">🎯 Goals</h2>
 
 <p align="center">
-  🚀 Build real-world projects<br>
-  📈 Continuously improve my programming skills<br>
-  💡 Learn new technologies and development practices<br>
-  🤝 Contribute to open-source projects<br>
-  💻 Become a professional software developer
+  🚀 Build increasingly complete and useful projects<br>
+  📈 Improve my development skills<br>
+  💡 Learn new technologies<br>
+  🤝 Contribute to open-source projects and communities<br>
+  🧩 Solve real-world problems through programming
 </p>
 
 ---
@@ -87,9 +102,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dark" height="180" alt="Top Languages">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
@@ -97,38 +112,36 @@
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<h2 align="center">📈 Most Used Languages</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=dark" alt="Repos per Language">
-</p>
+</div>
 
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </p>
@@ -137,8 +150,4 @@
 
 <p align="center">
   <i>💻 "Turning ideas into code, one project at a time."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
