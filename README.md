@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 💻 Building projects and learning new technologies
-- 📚 Always looking for ways to improve my programming skills
-- 🔧 I enjoy turning ideas into real projects
-- 🎯 My goal is to continuously grow as a developer
-- 🧠 Exploring different areas of software development
+  🌐 <b>Languages:</b> Portuguese (Native) • English (Basic - Improving)<br>
+  🚀 <b>Profile:</b> Focused on continuous learning, programming, and problem solving.<br>
+  🎯 <b>Goal:</b> Growing as a developer and building practical software projects.<br>
+  🎮 <b>Fun fact:</b> I enjoy playing games in my free time.
+- 
 
 ---
 
@@ -62,22 +62,8 @@
 ```text
 🌐 Web Development
 📱 Mobile Development
-☕ Java
-⚡ JavaScript
-🦋 Flutter
-💾 Databases
-🔌 Arduino & Electronics
 ```
 
----
-
-## 🎯 Goals
-
-- 🚀 Build increasingly complete and useful projects
-- 📈 Improve my development skills
-- 💡 Learn new technologies
-- 🤝 Contribute to open-source projects and communities
-- 🧩 Solve real-world problems through programming
 
 ---
 
@@ -98,16 +84,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
