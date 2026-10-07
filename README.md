@@ -62,11 +62,6 @@
 ```text
 🌐 Web Development
 📱 Mobile Development
-☕ Java
-⚡ JavaScript
-🦋 Flutter
-💾 Databases
-🔌 Arduino & Electronics
 ```
 
 ---
