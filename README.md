@@ -63,11 +63,6 @@
 ```text
 🌐 Web Development
 📱 Mobile Development
-☕ Java
-⚡ JavaScript
-🦋 Flutter
-💾 Databases
-🔌 Arduino & Electronics
 ```
 
 ---
@@ -109,16 +104,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
