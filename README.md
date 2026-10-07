@@ -5,17 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge" alt="Profile views">
+  📍 Macaíba, Rio Grande do Norte, Brazil
 </p>
 
 ---
 
 ## 🚀 About Me
-
-📍 **Macaíba, Rio Grande do Norte, Brazil**
 
 - 💻 Building projects and learning new technologies
 - 📚 Always looking for ways to improve my programming skills
@@ -41,6 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 <img width="12" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
 <img width="12" />
 
@@ -64,6 +62,7 @@
 ```text
 🌐 Web Development
 📱 Mobile Development
+☕ Java
 ⚡ JavaScript
 🦋 Flutter
 💾 Databases
