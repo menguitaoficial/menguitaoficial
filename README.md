@@ -1,9 +1,9 @@
 
 <p align="center">
   <img
-    width="130"
-    alt="Chapéu nordestino"
     src="https://github.com/user-attachments/assets/f8765156-e06c-4f60-874c-30bd99fbfb29"
+    alt="Chapéu nordestino"
+    width="100"
   />
 </p>
 
@@ -64,13 +64,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=menguitaoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=menguitaoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menguitaoficial&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=menguitaoficial&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Top Languages"
+  />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menguitaoficial&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=menguitaoficial&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </div>
 
 ---
@@ -81,7 +92,7 @@
   <a href="https://github.com/menguitaoficial">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/caio-diogenes-783a90232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
