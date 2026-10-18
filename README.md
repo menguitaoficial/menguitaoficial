@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img
-   <img width="1000" height="1000" alt="br-11134207-7r98o-m9e1sdjwjjuh63" src="https://github.com/user-attachments/assets/07d6a40e-0472-4522-8f88-427db12a1572" />
-</p>
-
 <h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
 
 <p align="center">
