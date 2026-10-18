@@ -1,5 +1,10 @@
+
 <p align="center">
-  <img width="1000" height="1000" alt="sg-11134201-7rbkj-lpv53m05c9y870" src="https://github.com/user-attachments/assets/f8765156-e06c-4f60-874c-30bd99fbfb29" />
+  <img
+    width="130"
+    alt="Chapéu nordestino"
+    src="https://github.com/user-attachments/assets/f8765156-e06c-4f60-874c-30bd99fbfb29"
+  />
 </p>
 
 <h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
