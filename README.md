@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="chapeu-nordestino.png" alt="Chapéu nordestino de couro" width="220">
-</p>
-
-<h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
+Chapéu nordestino de couro
 
 <p align="center">
   <i>💻 "Turning ideas into code, one project at a time."</i>
