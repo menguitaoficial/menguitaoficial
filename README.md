@@ -1,4 +1,9 @@
-Chapéu nordestino de couro
+
+<p align="center">
+  <img src="https://github.com/menguitaoficial/menguitaoficial/raw/main/chapeu-nordestino.png" alt="Chapéu nordestino" width="180">
+</p>
+
+<h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
 
 <p align="center">
   <i>💻 "Turning ideas into code, one project at a time."</i>
@@ -16,31 +21,22 @@ Chapéu nordestino de couro
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="Flutter" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Android Studio" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
 <img width="12" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
 
 </div>
@@ -70,9 +66,9 @@ Chapéu nordestino de couro
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=menguitaoficial&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menguitaoficial&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 
 </div>
 
@@ -82,7 +78,7 @@ Chapéu nordestino de couro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=menguitaoficial&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -92,7 +88,7 @@ Chapéu nordestino de couro
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/menguitaoficial">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
