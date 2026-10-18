@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/menguitaoficial/menguitaoficial/main/chapeu-nordestino.png" alt="Chapéu nordestino" width="180">
+  <img width="1000" height="1000" alt="sg-11134201-7rbkj-lpv53m05c9y870" src="https://github.com/user-attachments/assets/f8765156-e06c-4f60-874c-30bd99fbfb29" />
 </p>
 
 <h1 align="center">👋 Hey! I'm Caio Diogenes</h1>
